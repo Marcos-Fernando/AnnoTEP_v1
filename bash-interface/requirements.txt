@@ -1,0 +1,6 @@
+biopython==1.78
+matplotlib
+pandas
+python-dotenv
+tensorflow
+regex==2016.6.24

@@ -1,0 +1,17 @@
+.vscode
+docker-compose.ym
+
+At*
+short*
+*-matches.fasta
+At.fasta
+Tcacao.fasta
+__pycache__
+
+.www
+
+/bash-interface/results
+/graphic-interface/results
+/graphic-interface/.graphic
+
+/EDTA/bin/TIR-Learner*/Module3/Maize_model.sav
